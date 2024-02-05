@@ -1,0 +1,7 @@
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\bin\Debug\bookstore.exe.config
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\bin\Debug\bookstore.exe
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\bin\Debug\bookstore.pdb
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\obj\Debug\bookstore.csproj.AssemblyReference.cache
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\obj\Debug\bookstore.csproj.CoreCompileInputs.cache
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\obj\Debug\bookstore.exe
+E:\AR CS 2nd semester\oop lab\bookstore\bookstore\obj\Debug\bookstore.pdb

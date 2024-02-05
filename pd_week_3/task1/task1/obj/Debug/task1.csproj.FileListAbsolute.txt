@@ -1,0 +1,7 @@
+F:\AR CS 2nd semester\PD\week_3\task1\task1\bin\Debug\task1.exe.config
+F:\AR CS 2nd semester\PD\week_3\task1\task1\bin\Debug\task1.exe
+F:\AR CS 2nd semester\PD\week_3\task1\task1\bin\Debug\task1.pdb
+F:\AR CS 2nd semester\PD\week_3\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+F:\AR CS 2nd semester\PD\week_3\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+F:\AR CS 2nd semester\PD\week_3\task1\task1\obj\Debug\task1.exe
+F:\AR CS 2nd semester\PD\week_3\task1\task1\obj\Debug\task1.pdb

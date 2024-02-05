@@ -1,0 +1,7 @@
+E:\AR CS 2nd semester\oop lab\shitori\shitori\bin\Debug\shitori.exe.config
+E:\AR CS 2nd semester\oop lab\shitori\shitori\bin\Debug\shitori.exe
+E:\AR CS 2nd semester\oop lab\shitori\shitori\bin\Debug\shitori.pdb
+E:\AR CS 2nd semester\oop lab\shitori\shitori\obj\Debug\shitori.csproj.AssemblyReference.cache
+E:\AR CS 2nd semester\oop lab\shitori\shitori\obj\Debug\shitori.csproj.CoreCompileInputs.cache
+E:\AR CS 2nd semester\oop lab\shitori\shitori\obj\Debug\shitori.exe
+E:\AR CS 2nd semester\oop lab\shitori\shitori\obj\Debug\shitori.pdb
