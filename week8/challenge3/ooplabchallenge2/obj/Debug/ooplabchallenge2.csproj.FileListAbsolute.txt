@@ -1,0 +1,8 @@
+G:\AR\ooplabchallenge2\ooplabchallenge2\bin\Debug\ooplabchallenge2.exe.config
+G:\AR\ooplabchallenge2\ooplabchallenge2\bin\Debug\ooplabchallenge2.exe
+G:\AR\ooplabchallenge2\ooplabchallenge2\bin\Debug\ooplabchallenge2.pdb
+G:\AR\ooplabchallenge2\ooplabchallenge2\obj\Debug\ooplabchallenge2.csproj.AssemblyReference.cache
+G:\AR\ooplabchallenge2\ooplabchallenge2\obj\Debug\ooplabchallenge2.csproj.SuggestedBindingRedirects.cache
+G:\AR\ooplabchallenge2\ooplabchallenge2\obj\Debug\ooplabchallenge2.csproj.CoreCompileInputs.cache
+G:\AR\ooplabchallenge2\ooplabchallenge2\obj\Debug\ooplabchallenge2.exe
+G:\AR\ooplabchallenge2\ooplabchallenge2\obj\Debug\ooplabchallenge2.pdb

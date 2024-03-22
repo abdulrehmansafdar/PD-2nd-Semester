@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ooplabchallenge4", "ooplabchallenge4\ooplabchallenge4.csproj", "{1B489D2E-6789-4F17-8C18-22364AD01D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B489D2E-6789-4F17-8C18-22364AD01D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B489D2E-6789-4F17-8C18-22364AD01D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B489D2E-6789-4F17-8C18-22364AD01D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B489D2E-6789-4F17-8C18-22364AD01D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD19BE2F-7179-4F47-B76C-DE6BACD0EDAA}
+	EndGlobalSection
+EndGlobal

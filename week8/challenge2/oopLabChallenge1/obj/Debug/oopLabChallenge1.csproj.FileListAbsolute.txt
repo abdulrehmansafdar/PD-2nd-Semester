@@ -1,0 +1,8 @@
+G:\AR\oopLabChallenge1\oopLabChallenge1\bin\Debug\oopLabChallenge1.exe.config
+G:\AR\oopLabChallenge1\oopLabChallenge1\bin\Debug\oopLabChallenge1.exe
+G:\AR\oopLabChallenge1\oopLabChallenge1\bin\Debug\oopLabChallenge1.pdb
+G:\AR\oopLabChallenge1\oopLabChallenge1\obj\Debug\oopLabChallenge1.csproj.AssemblyReference.cache
+G:\AR\oopLabChallenge1\oopLabChallenge1\obj\Debug\oopLabChallenge1.csproj.SuggestedBindingRedirects.cache
+G:\AR\oopLabChallenge1\oopLabChallenge1\obj\Debug\oopLabChallenge1.csproj.CoreCompileInputs.cache
+G:\AR\oopLabChallenge1\oopLabChallenge1\obj\Debug\oopLabChallenge1.exe
+G:\AR\oopLabChallenge1\oopLabChallenge1\obj\Debug\oopLabChallenge1.pdb
